@@ -6,9 +6,9 @@
   <img align="center" alt="gabriel-Python" height="40" width "50" src="https://img.icons8.com/nolan/64/python.png">
   <img align="center" alt="gabriel-html" height="40" width "50" src="https://img.icons8.com/nolan/64/html.png">
   <img align="center" alt="gabriel-css" height="40" width "50" src="https://img.icons8.com/nolan/64/css-filetype.png">
-  <img align="center" alt="gabriel-linux" height="40" width "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="gabriel-linux" height="40" src="https://img.icons8.com/nolan/64/linux--v2.png">
-  
+  <img align="center" alt="gabriel-linux" height="40" width "50" src="https://img.icons8.com/nolan/64/linux--v2.png">
+  <img align="center" alt="gabriel-java" height="40" width "50" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png">
+
 </div>
 
 
