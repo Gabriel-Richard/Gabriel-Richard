@@ -1,4 +1,4 @@
-### OI, sou o Gabriel. E seja bem vindo ao meu perfil. 😄
+### Opaaaaaa, Bora programar? 😄
 
 ##
 <div style="display: inline_block"><br>
