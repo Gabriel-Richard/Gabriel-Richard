@@ -1,4 +1,4 @@
-### OI, sou o Gabriel. E seja bem vindos ao meu perfil. 😄
+### OI, sou o Gabriel. E seja bem vindo ao meu perfil. 😄
 
 ##
 <div style="display: inline_block"><br>
