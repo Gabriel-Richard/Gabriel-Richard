@@ -10,6 +10,8 @@
   <img align="center" alt="gabriel-java" height="40" width "50" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png">
   <img align="center" alt="gabriel-javascript" height="40" width "50" src="https://img.icons8.com/nolan/64/javascript.png">
   <img align="center" alt="gabriel-Bootstrap" height="40" width "50" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+  <img align="center" alt="gabriel-Bootstrap" height="40" width "50" src="https://img.icons8.com/nolan/64/c.png">
+  
   <img align="center" alt="gabriel-dotnet" height="40" width "50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dotnet_logo_icon_170223.png">
 </div>
 
